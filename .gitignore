@@ -1,0 +1,8 @@
+/email_automation/email_config.py
+/email_automation/token.json
+/email_automation/credentials.json
+*.ipynb
+*.csv
+*.txt
+__pycache__
+/email_automation/__pycache__
